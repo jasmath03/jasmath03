@@ -1,6 +1,26 @@
-Hi, I’m @jasmath03. I’m interested in software engineering and backend(server side, database, etc.). I’m currently learning C(already know C++), Kotlin, Scala, Python
+# Jasdeep Matharu
 
-<!---
-jasmath03/jasmath03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software engineer focused on backend systems, full-stack development, and game modding. Graduating June 2026 from UC Santa Cruz with a B.S. in Computer Science.
+
+---
+
+## Featured Work
+
+TonsOfEnchants — NeoForge 1.21.1 Minecraft mod with 60+ custom enchantments. Built and maintained solo. 2M+ downloads on CurseForge.
+
+SlugShare — Full-stack web platform built with a team at UCSC.
+
+---
+
+## Stack
+
+**Languages** — Java · C++ · TypeScript · JavaScript · Python · SQL  
+**Backend** — Node.js · PostgreSQL · REST APIs  
+**Frontend** — React · Next.js  
+**Tools** — Git · NeoForge · Agile
+
+---
+
+## Links
+
+[CurseForge](https://www.curseforge.com/tonsofenchants) · [LinkedIn](https://www.linkedin.com/in/jasdeepmatharu)
