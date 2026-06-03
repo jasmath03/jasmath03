@@ -23,4 +23,4 @@ SlugShare — Full-stack web platform built with a team at UCSC.
 
 ## Links
 
-[CurseForge](https://www.curseforge.com/tonsofenchants) · [LinkedIn](https://www.linkedin.com/in/jasdeepmatharu)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/tonsofenchants) · [LinkedIn](https://www.linkedin.com/in/jasdeepmatharu)
